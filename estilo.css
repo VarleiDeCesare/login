@@ -1,0 +1,41 @@
+body{
+    background-image: url("/assets/img/fundo.jpg");
+    font-family: 'DotGothic16', sans-serif!important;
+    background-size: contain;
+    background-size: 100% auto;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+.login {
+    margin-top: 200px;
+    text-align: center;
+    width: 320px;
+    height: 390px;
+    background-color: #334c7c;
+    border-radius: 40px 40px 0px 40px;
+    padding: 20px;
+    padding-top: 10px;
+    color: white;
+
+}
+.login p{
+    font-size: 20px;
+}
+.login .enviar{
+    margin-top: 9px;
+}
+.perda-senha{
+    color: white;
+    font-weight: bold;
+}
+.enviar{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    color: white;
+    background-color: #5687e9;
+}
+.text-pass, .text-usu{
+    margin-bottom: 10px;
+}
